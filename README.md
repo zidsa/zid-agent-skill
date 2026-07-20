@@ -38,7 +38,7 @@ Everything here is grounded in [docs.zid.sa](https://docs.zid.sa) and its [llms.
 ## Installation
 
 **Claude (claude.ai / Claude Desktop / Cowork)**
-Download the [`.skill` release](../../releases) (or zip the folder yourself) and use the "Save skill" option when it's shared in a conversation, or upload it wherever your org manages custom skills.
+Download the [`.skill` release](https://github.com/zidsa/zid-agent-skill/releases) (or zip the folder yourself) and use the "Save skill" option when it's shared in a conversation, or upload it wherever your org manages custom skills.
 
 **Claude Code**
 Copy or clone this folder into your project's skills directory (or your global `~/.claude/skills/`), e.g.:
