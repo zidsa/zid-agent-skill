@@ -43,7 +43,7 @@ Download the [`.skill` release](../../releases) (or zip the folder yourself) and
 **Claude Code**
 Copy or clone this folder into your project's skills directory (or your global `~/.claude/skills/`), e.g.:
 ```bash
-git clone https://github.com/<your-org>/zid-api-integration.git .claude/skills/zid-api-integration
+git clone https://github.com/zidsa/zid-agent-skill.git .claude/skills/zid-api-integration
 ```
 
 **opencode / other skill-aware agents**
