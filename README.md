@@ -70,4 +70,4 @@ If you find a place where this skill is stale relative to docs.zid.sa, or a fail
 
 ## License
 
-Add your license of choice here before publishing.
+Licensed under the [MIT License](LICENSE).
